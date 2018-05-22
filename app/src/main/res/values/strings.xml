@@ -1,0 +1,169 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Ark Explorer - Nepal</string>
+
+    <!-- Category visits for the list view -->
+    <string name="category_eat">Eat</string>
+
+    <string name="eat_pulao">Pulau</string>
+    <string name="pulao_summary">Rice is the obvious staple for many Nepalese dishes, just like many other Asian countries.
+        The fried rice dish of Pulao (also know as Pilaf and Pilau) is popular with locals and visitors. Vegetable pulao
+        in particular can be found throughout Nepal, and consists of fried rice with vegetables which have been lightly
+        seasoned with turmeric and cumin. Accompaniments to the dish can vary from yoghurt to papadams, and the subtle
+        flavors brought out by the fragrant rice means the dish is a regular feature at social events and times of celebration
+        within the country.</string>
+
+    <string name="eat_dal_bhat">Dal Bhat</string>
+    <string name="dal_bhat_summary">If Nepal had a national dish, Dal Bhat would be it. It consists of a rice (or substitute)
+        centre, alongside lentils which are surrounded by various different dishes. Sides can include pickles, curried dishes,
+        meat or fish, yoghurt, and chutney. Rice in Nepal is regularly replaced with roti, an unleavened bread. The variations
+        of this dish are countless, but it is important when visiting to try at least one of them in order to get an authentic
+        taste of Nepalese cuisine.</string>
+
+    <string name="eat_momo">Momo</string>
+    <string name="momo_summary">Momo are Nepal’s version of dumplings, and usually contain steamed vegetables or meat. Momo are
+        usually accompanied by one or two dips, often with a tomato base or fermented vegetables. Condiments in Nepal are sometimes
+        quite spicy, and often contain raw chili and garlic. Similar to the Gyoza found in Japan, momo are also consumed in parts
+        of India, Bhutan and Tibet, and are a very popular snack. There are some interesting variants of momo, with fillings involving
+        cheese (paneer or chhurpi) or potato. For the most flavorsome momo, the traditional meat and vegetable varieties are a must eat.</string>
+
+    <string name="eat_thukpa">Thukpa</string>
+    <string name="thukpa_summary">Thukpa is a Nepalese hot noodle soup, containing pieces of meat and vegetables. This wintry delicacy
+        is popular in Kathmandu and other mountainous regions of Nepal, being a warming and comforting dish. Meaning ‘noodle’ in Tibetan,
+        Thukpa takes influences from both Tibet and China, and is often seen eaten alongside momo. The carefully seasoned meat stock gives
+        the dish a very pleasant aroma, meat toppings reflect the fauna of Nepal, and can range from yak, goat, and lamb to chicken. The dish
+        is particularly popular across Nepal and Tibet but the Nepalese version is sometimes spicier, making it more popular than its Tibetan
+        counterpart. For an enjoyable vegetarian Thukpa, the Green Organic Cafe in Kathmandu dishes up vegetarian options of most of the best
+        Nepalese dishes.</string>
+
+    <string name="eat_sel_roti">Sel Roti</string>
+    <string name="sel_roti_summary">Sel roti is a cross between a doughnut and a bagel, but sel roti is actually made of rice flour and
+        is like no other bread in the world. A crispy and sweet outer surface gives way to a puffy and soft-textured dough. The rice flour
+        bread is deep fried and worked into a circular shape. The perfect snack or breakfast treat, they are often consumed during Tihar and
+        Dashai religious festivals. Perfect when dipped in yoghurt, alongside vegetables, or simply enjoyed by itself. Sel roti can be found
+        from street vendors, and is best eaten fresh.</string>
+
+    <!-- Category name for the vocabulvisitsords for family members [CHAR LIMIT=20] -->
+    <string name="category_see">See</string>
+
+    <string name="see_everest">Everest</string>
+    <string name="everest_summary">The Three Passes Trek takes you over three 5,000m+ passes and is the best way to truly experience the Everest 
+        Region for those who have the time to spend 3 weeks on the trail. The trek includes sections of the Everest Base Camp Trek, but offers 
+        even more spectacular views of the giants in the heart of the Himalaya as you cross the Renjo La, Cho La and Kongma La passes. The Three 
+        Passes trek can be combined with other variations of the Everest Base Camp Trek. 
+    </string>
+    
+    <string name="see_manaslu">Manaslu</string>
+    <string name="manaslu_summary">The Manaslu Circuit Trek has become more accessible since new lodges were built in 2010. It earns the top spot
+        in this list because the trek has all the great features you’d expect from a classic Himalayan trek—deep lush valleys at lower elevations,
+        amazing views of 8,000m peaks, and a 5,000m+ pass crossing—all the while remaining largely unspoiled by visitors.</string>
+
+    <string name="see_langtang">Langtang</string>
+    <string name="langtang_summary">The Langtang trek is a trek with real heart. After having been devoid of travelers for a couple of years after
+        the 2015 earthquake, the trails and guesthouses have been rebuilt, and trekkers are back. The trek takes you through magnificent forests
+        to the high alpine meadows and yak pastures around Kyangjin Gompa (a Buddhist monastery), with an optional day hike up to the top of Kyangjin
+        Ri (peak).</string>
+
+    <string name="see_annapurna">Annapurna</string>
+    <string name="annapurna_summary">The Annapurna Base Camp Trek takes you deep into the Annapurna Massif to the foot of Annapurna South. The scenery
+        is quite different from most other classic treks because the views are less expansive and more vertical: you find yourself looking almost straight
+        up to see the mountains towering above you.</string>
+
+    <string name="see_mustang">Mustang</string>
+    <string name="mustang_summary">The arid valley of the Upper Mustang Trek features a distinct landscape compared to almost all other treks in Nepal.
+        With its many shades of brown and crumbling sandstone cliffs, this region lies in the desert rain shadow of the Himalaya. Mustang used to be its
+        own kingdom, and its strong Tibetan-influenced traditions make this a culturally very interesting trek.</string>
+
+    <!-- Category name for the vocabulvisitsords for colors [CHAR LIMIT=20] -->
+    <string name="category_do">Do</string>
+    
+    <string name="do_bungee_jumping">Bungee Jumping</string>
+    <string name="bungee_jumping_summary">A bungee jump with incredible views makes the experience so much better, trust me! Obviously, people agree, as
+        Nepal has been labeled one of the “best sites” to experience the thrill of a bungee jump. I can see why, as plunging off a tropical gorge at 106
+        meters over one of the wildest rivers, Bhote Koshi, gushing below would add to the rush of adrenaline. To make a full day of adventures, you can
+        combine this jump with trekking through the mountains or even with the world’s highest canyon swing!</string>
+    
+    
+    <string name="do_paragliding">Paragliding</string>
+    <string name="paragliding_summary">Ask yourself, when was the last time you marveled at the image of a bird of prey in flight?  This may be the perfect
+        opportunity for you to enjoy  flight to see the world through these bird’s eyes. Experience the unparalleled scenic grandeur as you soar over villages,
+        monasteries, temples, lakes and jungle, while sharing airspace with Himalayan griffins, eagles, and kites. </string>
+    
+    
+    <string name="do_rafting">Rafting</string>
+    <string name="rafting_summary">If walking or freefalling doesn’t give you the adrenaline rush then you have to try out the splashing and waving and twisting
+        and turning sport of rafting. The Nepali rivers flowing from the Himalayas with great speed and power are the perfect option for white water rafting.
+        The rivers flowing down from the Snow capped mountains provide the best rapids with twists and turns ensuring you a thrilling experience. When you are
+        not transfixed trying to veer around the swerving water through giant rocks, you will be enjoying dips in the cool rivers in the lush environment of 
+        beach camps that provide the rafting services.</string>
+
+    <string name="do_zip_flyer">Zip Flyer</string>
+    <string name="zip_flyer_summary">Yes, another zip line, but not just any zip line. The tallest, longest and steepest zip line in the whole world! (Or at least
+        that’s what they claim). 1.8km in length with an incline of 56 degrees and a vertical drop of 600 meters, the Zip Flyer is renowned for being the most
+        extreme zip line experience. Feel the adrenaline rush of plummeting towards the ground before flying forwards over the breath-taking landscapes around you.
+        This activity is always great fun, but why not find out if this is really all it claims to be yourself!</string>
+    
+    
+    <string name="do_canyoning">Canyoning</string>
+    <string name="canyoning_summary">Canyoning is a Hardcore Nepal adventure not to be missed… we have discovered an amazing canyon where you will not only
+        abseil down a beautiful waterfall, but finish your decent with a rock slide plunge into a gorgeous natural pool below the falls! This is the best Nepal
+        canyoning (canyoneering) trip you can find! Great for a couple friends or larger groups! Get ready for adrenaline overload as you jump, slide, scramble
+        and abseil through one of Nepal’s most pristine canyons.</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_be">Be</string>
+
+    <string name="be_pashupatinath">Pashupatinath</string>
+    <string name="pashupatinath_summary">This temple complex located on the banks of the Bagmati River, is the largest in Nepal. It was built in the 5th century
+        and later renovated by the Malla Kings. The main temple in the complex is dedicated to Lord Shiva and is restricted to Hindus only. If you ever visit the
+        complex, you can also see the cremation ceremonies of Hindus on raised platforms along the river which I found quite disturbing. Don’t get fooled by those
+        painted saints (Sadhus) in the temple complex who demand money if you wish to take a photo of them. Either be prepared to pay or don't take their photo.</string>
+    
+    
+    <string name="be_boudhanath">Boudhanath</string>
+    <string name="boudhanath_summary">Boudhanath was probably built in the 14th century after the Mughal invasions; various interesting legends are told regarding
+        the reasons for its construction. After the arrival of thousands of Tibetans following the 1959 Chinese invasion, the temple has become one of the most
+        important centers of Tibetan Buddhism. Today it remains an important place of pilgrimage and meditation for Tibetan Buddhists and local Nepalis, as well
+        as a popular tourist site.</string>
+    
+    <string name="be_swayambhunath">Swayambhunath</string>
+    <string name="swayambhunath_summary">Legend says that once the Kathmandu valley was a lake in which Swayambhu hill existed as an island. On top of that hill
+        stood a natural crystal stupa. Buddha, when visiting the place, declared that it was a wish-fulfilling stupa and whoever is touched by the wind that passes
+        over the stupa receives the seed of liberation from the cycle of existence.</string>
+    
+    <string name="be_durbar_square">Durbar Square</string>
+    <string name="durbar_square_summary">The heart of the old town, the Durbar square was once the place where the King was crowned and v The King’s palace is right
+        there, from where he used to rule the country. Also known as Hanuman Dhoka, this UNESCO World Heritage Site, used to be a bustling place filled with the locals
+        and tourists. The Pagoda styled temples and palace, dating back to the period from 15th to 18th Century, were badly hit by the devastating earthquake in 2015.
+        My heart sank seeing the tilted roofs and cracked palace in the Durbar Square of Kathmandu.</string>
+    
+    <string name="be_patan">Patan</string>
+    <string name="patan_summary">Patan is apparently the oldest town in the valley, flaunting the finest collection of temples, palaces and monuments. The intricate
+        details of the Newari Architectures, the large courtyard of the palace, the wood, and stone carvings in the temples are simply jaw-dropping. Patan (the city
+        of Lalitpur) is surrounded by four stupas which were built by Emperor Ashoka. Durbar Square is a lively place buzzing with locals and tourists all the time.
+        A visit to Patan is absolutely mandatory for first time visitors. It is nothing less than an architectural treasure</string>
+    
+    <string name="be_bhaktapur">Bhaktapur</string>
+    <string name="bhaktapur_summary">The square is one of the most charming architectural showpieces of the Valley as it highlights the ancient arts of Nepal.
+        The golden effigies of kings perched on the top of stone monoliths, the guardian deities looking out from their sanctuaries, the wood carvings in every
+        place-struts, lintels, uprights, tympanums, gateways and windows-all seem to form a well-orchestrated symphony. Pottery and weaving are its major
+        traditional industries.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
